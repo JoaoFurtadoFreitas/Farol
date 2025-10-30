@@ -1,0 +1,3 @@
+/home/furtado/Documents/Mod4/Farol/build/CMakeFiles/upload.dir
+/home/furtado/Documents/Mod4/Farol/build/CMakeFiles/edit_cache.dir
+/home/furtado/Documents/Mod4/Farol/build/CMakeFiles/rebuild_cache.dir
