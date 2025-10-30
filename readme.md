@@ -46,3 +46,7 @@ Assista ao vídeo de demonstração do funcionamento completo do sistema:
 
  [Clique aqui para ver o vídeo](https://drive.google.com/file/d/1TqT2aSRMkJJRGtHbYceyf7MSGFc2dTHt/view?usp=sharing)
  
+
+## Feedback dos colegas
+
+&nbsp;A implementação do projeto foi avaliada pelos colegas Rafael e Nicole, que destacaram aspectos positivos tanto do código quanto do circuito desenvolvido. Ambos atribuíram nota máxima (10) à atividade, ressaltando que o funcionamento do semáforo foi claro, organizado e bem estruturado, demonstrando uma boa aplicação dos conceitos de programação e eletrônica.
